@@ -45,9 +45,3 @@
 </div>
 
 
-
----
-
-⚡ To generate a `README.md` like this, check out  
-[GitHub Readme Generator](https://hejazizo-github-profile-readme-srcstreamlit-app-i6skm7.streamlit.app/)
-
