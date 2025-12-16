@@ -34,8 +34,8 @@
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat-square&logo=Matplotlib&color=353535)
 
 ---
-<div>
-  <img width="45%" align="left"
+<div align="center">
+  <img width="45%"
        src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadnsr1&layout=compact&langs_count=6&hide=html,css"
        alt="Most Used Languages" />
 
@@ -43,6 +43,7 @@
        src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadnsr1"
        alt="GitHub Streak" />
 </div>
+
 
 
 ---
