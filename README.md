@@ -11,7 +11,7 @@
 ---
 
 - 🤖 I am currently involved in research focused on **Robot Learning**.
-- 🧠🔧 My expertise spans **Dynamics & Vibration**, **Robot Software Development**, **Aerial Robots**, **Data Acquisition Systems**, **Acoustics**, **Signal Processing**, and **CAD Design**.
+- 🧠🔧 My expertise spans **Robot Software Development**, **Aerial Robots**, **Dynamics & Vibration**, **Data Acquisition Systems**, **Acoustics**, **Signal Processing**, and **CAD Design**.
 - 📫 How to reach me: **nasrmohammad661@gmail.com**
 
 ---
