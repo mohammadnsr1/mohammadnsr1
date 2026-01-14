@@ -37,16 +37,15 @@
 ---
 ---
 <div align="center">
-  <img
-    width="45%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadnsr1&layout=compact&langs_count=6&hide=html,css"
-    alt="Most Used Languages" />
+<img
+  width="45%"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadnsr1&layout=compact&langs_count=6&hide=html,css"
+  alt="Most Used Languages" />
 
-  <img
-    width="50%"
-    src="https://streak-stats.demolab.com/?user=mohammadnsr1"
-    alt="GitHub Streak" />
-</div>
->
+
+<img
+  width="50%"
+  src="https://streak-stats.demolab.com/?user=mohammadnsr1"
+  alt="GitHub Streak" />
 
 
