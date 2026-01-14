@@ -35,17 +35,17 @@
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat-square&logo=Matplotlib&color=353535)
 
 ---
----
 <div align="center">
-<img
-  width="45%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadnsr1&layout=compact&langs_count=6&hide=html,css"
-  alt="Most Used Languages" />
+  <img
+    width="45%"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mohammadnsr1&layout=compact&langs_count=6&hide=html,css"
+    alt="Most Used Languages" />
 
+  <img
+    width="50%"
+    src="https://streak-stats.demolab.com/?user=mohammadnsr1"
+    alt="GitHub Streak" />
+</div>
 
-<img
-  width="50%"
-  src="https://streak-stats.demolab.com/?user=mohammadnsr1"
-  alt="GitHub Streak" />
 
 
